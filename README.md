@@ -1,1 +1,0 @@
-# rada-subject-list.css
